@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "test2",
+    "script": "production.js",
+    "cwd": "/Users/eleme20/git/practice/nodejs/test2",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
